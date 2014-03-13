@@ -1,3 +1,9 @@
+oslosphinx (1.1-0ubuntu1+nebula) trusty; urgency=low
+
+  * Build for Nebula
+
+ -- Dean Troyer <dtroyer@gmail.com>  Thu, 13 Mar 2014 00:00:00 -0000
+
 oslo-sphinx (1.1-0ubuntu2) trusty; urgency=medium
 
   * Rebuild to drop files installed into /usr/share/pyshared.

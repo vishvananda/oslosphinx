@@ -1,4 +1,4 @@
-Source: oslo-sphinx
+Source: oslosphinx
 Section: python
 Priority: optional
 Maintainer: Chuck Short <zulcss@ubuntu.com>
