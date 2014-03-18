@@ -1,4 +1,4 @@
-Source: oslo-sphinx
+Source: oslosphinx
 Section: python
 Priority: optional
 Maintainer: Chuck Short <zulcss@ubuntu.com>
@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 8.0.0), python-setuptools, python-all (>= 2.6.6-3~)
  python-pbr
 Standards-Version: 3.9.4
 
-Package: python-oslo.sphinx
+Package: python-oslosphinx
 Architecture: all
 Depends: ${python:Depends}, ${misc:Depends}
 Description: theme and extension support for openstack

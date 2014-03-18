@@ -1,17 +1,5 @@
-oslo-sphinx (1.1-0ubuntu2) trusty; urgency=medium
+oslosphinx (2.0-0ubuntu1-nebula) trusty; urgency=low
 
-  * Rebuild to drop files installed into /usr/share/pyshared.
+  * Build for Nebula
 
- -- Matthias Klose <doko@ubuntu.com>  Sun, 23 Feb 2014 13:49:33 +0000
-
-oslo-sphinx (1.1-0ubuntu1) trusty; urgency=low
-
-  * New upstream release.
-
- -- Chuck Short <zulcss@ubuntu.com>  Fri, 22 Nov 2013 11:31:44 -0500
-
-oslo-sphinx (1.0-0ubuntu1) saucy; urgency=low
-
-  * Initial release.
-
- -- Chuck Short <zulcss@ubuntu.com>  Tue, 09 Jul 2013 11:36:54 -0500
+ -- Dean Troyer <dtroyer@gmail.com>  Thu, 13 Mar 2014 00:00:00 -0000
