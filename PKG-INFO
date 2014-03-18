@@ -1,0 +1,21 @@
+Metadata-Version: 2.0.1
+Name: oslosphinx
+Version: 2.0.1
+Summary: OpenStack Sphinx Extensions
+Home-page: http://www.openstack.org/
+Author: OpenStack
+Author-email: openstack@lists.launchpad.net
+License: Apache License (2.0)
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Environment :: OpenStack
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Documentation
